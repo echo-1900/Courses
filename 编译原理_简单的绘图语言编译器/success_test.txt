@@ -1,0 +1,9 @@
+ORIGIn IS (350, 220);      
+rot is 0;
+scale is (50, 50);
+
+//FOR T FROM 0 TO 2*PI STEP PI/500 DRAW(cos(T),sin(T));
+
+//scale is (100, 100);
+
+FOR T FROM 0 TO 2*PI STEP PI/500 DRAW(cos(2*T),sin(T));
